@@ -7,6 +7,10 @@ The problem is posed as an integer linear program and solved using Yalmip. Yalmi
 
 It follows the clues as presented in this [TedEd video](http://ed.ted.com/lessons/can-you-solve-einstein-s-riddle-dan-van-der-vieren).
 
+Also replicated on Youtube:
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/1rDVz_Fb6HQ/0.jpg)](http://www.youtube.com/watch?v=1rDVz_Fb6HQ)
+
 License
 =====================================================
 This solution is licensed with the MIT License.
